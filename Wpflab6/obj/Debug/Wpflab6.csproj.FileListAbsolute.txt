@@ -1,0 +1,17 @@
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\DialogForParams.g.cs
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\MainWindow.g.cs
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\App.g.cs
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\Wpflab6_MarkupCompile.cache
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\Wpflab6_MarkupCompile.lref
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\bin\Debug\Wpflab6.exe.config
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\bin\Debug\Wpflab6.exe
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\bin\Debug\Wpflab6.pdb
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\DialogForParams.baml
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\MainWindow.baml
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\Wpflab6.g.resources
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\Wpflab6.Properties.Resources.resources
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\Wpflab6.csproj.GenerateResource.cache
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\Wpflab6.csproj.CoreCompileInputs.cache
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\Wpflab6.exe
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\Wpflab6.pdb
+C:\Users\Inna\source\repos\Wpflab6\Wpflab6\obj\Debug\Wpflab6.csprojAssemblyReference.cache
